@@ -18,3 +18,7 @@ th,
 td {
   text-align: center;
 }
+
+.last-div {
+  margin-bottom: 100px;
+}
