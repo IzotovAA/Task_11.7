@@ -1,0 +1,20 @@
+.container {
+  margin-top: 30px;
+}
+
+h5 {
+  margin-bottom: 20px;
+}
+
+.table-container {
+  margin-bottom: 50px;
+}
+
+.table1-row {
+  font-weight: normal;
+}
+
+th,
+td {
+  text-align: center;
+}
